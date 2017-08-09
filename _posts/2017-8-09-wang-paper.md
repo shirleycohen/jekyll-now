@@ -3,7 +3,7 @@ layout: post
 title: Paper Review #1
 ---
 
-Lifting the Haze off the Cloud: A Consumer-Centric Market for Database Computation in the Cloud by Wang et al., VLDB 2017. 
+<a href="http://www.vldb.org/pvldb/vol10/p373-wang.pdf">Lifting the Haze off the Cloud: A Consumer-Centric Market for Database Computation in the Cloud</a> by Wang et al., VLDB 2017. 
 
 1) Biggest contribution: Studies the problem of cost optimization in the cloud. Specifically, the paper offers an agent-based framework that computes a pricing contract for performing a given task in the cloud under a given deadline. The agent has knowledge of multiple cloud providers so it returns multiple contracts, allowing the customer to choose the one with the lowest price. In my experience, the topic of cost optimization in the cloud is something that confuses many customers, so I think it is a valid problem to study. For example, knowing what RIs to purchase to save money on AWS and when to purchase them can be daunting at-scale. It often requires several stakeholders in the company and some additional tooling to make good decisions. 
 
