@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Review #1
+title: Paper Review &#35;1
 ---
 
 <a href="http://www.vldb.org/pvldb/vol10/p373-wang.pdf">Lifting the Haze off the Cloud: A Consumer-Centric Market for Database Computation in the Cloud</a> by Wang et al., VLDB 2017. 

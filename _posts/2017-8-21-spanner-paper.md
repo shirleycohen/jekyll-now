@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Review #2
+title: Paper Review &#35;2
 ---
 
 <a href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46103.pdf">Spanner: Becoming a SQL System</a> by Bacon et al., SIGMOD 2017. 
